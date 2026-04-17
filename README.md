@@ -16,3 +16,4 @@
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 ![React](https://skillicons.dev/icons?i=react)
+![JUnit](https://skills.syvixor.com/api/icons?i=junit5)
