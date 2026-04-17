@@ -5,9 +5,6 @@
 - 🌱 I'm currently learning **JavaFX**
 - 🤝 I'm looking for help with **learing fullstack**
 
-
-<h3 align="left">Languages and Tools:</h3>
-
 ### Languages and Tools
 ![Express](https://skillicons.dev/icons?i=express)
 ![Git](https://skillicons.dev/icons?i=git)
